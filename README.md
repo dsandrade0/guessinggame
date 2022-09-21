@@ -1,4 +1,5 @@
-# guessinggame
-Project to study Rust
+# Guessing Game
 
-## My first impressions about Rust
+## Project to study Rust
+
+### My first impressions about Rust
